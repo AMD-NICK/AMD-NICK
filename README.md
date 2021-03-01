@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AMD-NICK.profile)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AMD-NICK&count_private=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMD-NICK&theme=dark&hide=html" />
+
 <!--
 **AMD-NICK/AMD-NICK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
